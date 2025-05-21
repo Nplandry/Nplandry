@@ -1,4 +1,4 @@
-  <h1 align="center">¡Hola, Nicolas Poblete Landry 👋!</h1>
+  <h1 align="center">¡Hola, soy Nicolas Poblete Landry 👋!</h1>
 
 <p align="center">
   Desarrollador full stack | Apasionado por la IA y la automatización | Siempre aprendiendo
