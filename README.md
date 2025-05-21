@@ -44,8 +44,8 @@
 ### Intereses actuales
 
 - Temas de inteligencia articicial, chatbots y automatizacion.
-- Automatizacion de contenido de valor
-- Desarrollo de aplicaciones capaces de venderse en el mercado competitivo actual
+- Automatizacion de contenido de valor.
+- Desarrollo de aplicaciones capaces de venderse en el mercado competitivo actual.
 
 ---
 
