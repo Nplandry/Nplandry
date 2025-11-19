@@ -1,4 +1,4 @@
-  <h1 align="center">¡Hola, soy Nicolas Poblete Landry 👋!</h1>
+  <h1 align="center">Buenas, soy Nicolas Poblete Landry</h1>
 
 <p align="center">
   Desarrollador full stack | Apasionado por la IA y la automatización | Siempre aprendiendo
@@ -30,7 +30,7 @@
 
 ---
 
-### 📈 Algunos proyectos en los que he trabajado estos ultimos 6 meses
+### Algunos proyectos en los que he trabajado estos ultimos 6 meses
 - **Servicio Web permisocirculacion** - Desarrollo de infraestructura con escalabilidad horizontal para pagina relacionada al permiso de circulacion.
 - **Notepilot** — App de notas impulsada por inteligencia artificial.
 - **Fitgrow App** - Red social fitness con billetera de entrenamientos e inteligencia artificial. Acompañada de herramientas para mejorar y conocer gente con la misma motivacion y objetivos!
