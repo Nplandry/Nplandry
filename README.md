@@ -1,7 +1,7 @@
   <h1 align="center">Buenas, soy Nicolas Poblete Landry</h1>
 
 <p align="center">
-  Desarrollador full stack | Apasionado por la IA y la automatización | Siempre aprendiendo
+  Desarrollador full stack | Apasionado por la tecnologia | Siempre aprendiendo
 </p>
 
 ---
