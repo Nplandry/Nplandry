@@ -36,8 +36,6 @@
 - **Fitgrow App** - Red social fitness con billetera de entrenamientos e inteligencia artificial. Acompañada de herramientas para mejorar y conocer gente con la misma motivacion y objetivos!
 - **Chatbot Empresarial con AWS** - Desarrolle un chatbot vectorial con las ultimas tecnologias de aws como glue, lambda, bedrock, s3, entre otros.
 - Automatizador de descargas desde el SII y BCN usando Selenium + Requests.
-- API Express con Firestore, Redis y MySQL integrados para escalabilidad.
-
 
 ---
 
