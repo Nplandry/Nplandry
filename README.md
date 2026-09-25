@@ -32,7 +32,7 @@
 
 ### Algunos proyectos en los que he trabajado estos ultimos 6 meses
 - **Servicio Web permisocirculacion** - Desarrollo de infraestructura con escalabilidad horizontal para pagina relacionada al permiso de circulacion.
-- **Notepilot** — App de notas impulsada por inteligencia artificial.
+- **Notepilot** - App de notas impulsada por inteligencia artificial.
 - **Fitgrow App** - Red social fitness con billetera de entrenamientos e inteligencia artificial. Acompañada de herramientas para mejorar y conocer gente con la misma motivacion y objetivos!
 - **Chatbot Empresarial con AWS** - Desarrolle un chatbot vectorial con las ultimas tecnologias de aws como glue, lambda, bedrock, s3, entre otros.
 - Automatizador de descargas desde el SII y BCN usando Selenium + Requests.
