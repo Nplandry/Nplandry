@@ -30,15 +30,6 @@
 
 ---
 
-
-### Intereses actuales
-
-- Temas de inteligencia articicial, chatbots y automatizacion.
-- Automatizacion de contenido de valor.
-- Desarrollo de aplicaciones capaces de venderse en el mercado competitivo actual.
-
----
-
 ### Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/tuusuario)
